@@ -1,0 +1,17 @@
+{
+  "name": "404-not-found-master",
+  "version": "1.0.0",
+  "description": "404 Not Found Challenge Responsive Design",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./util/scss/styles.scss ./util/css/styles.css"
+  },
+  "keywords": [
+    "challenge",
+    "responisve",
+    "design",
+    "sass"
+  ],
+  "author": "AlejandroRF",
+  "license": "ISC"
+}
